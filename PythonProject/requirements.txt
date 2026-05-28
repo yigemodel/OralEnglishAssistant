@@ -1,0 +1,8 @@
+langchain>=1.0.0
+langchain-openai>=1.0.0
+streamlit>=1.36.0
+charset-normalizer>=3.3.0
+SpeechRecognition>=3.10.0
+imageio-ffmpeg>=0.5.0
+pocketsphinx>=5.0.3
+edge-tts>=6.1.0
